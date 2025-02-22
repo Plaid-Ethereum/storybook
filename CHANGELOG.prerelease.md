@@ -1,3 +1,7 @@
+## 8.6.0-beta.8
+
+- Addon-Test: Fix console error in build mode - [#30625](https://github.com/storybookjs/storybook/pull/30625), thanks @JReinhold!
+
 ## 8.6.0-beta.7
 
 - Angular: Fix @angular/platform-browser/animations never available - [#30618](https://github.com/storybookjs/storybook/pull/30618), thanks @valentinpalkovic!
