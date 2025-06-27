@@ -319,7 +319,7 @@
     "sb": "node ./bin/index.js"
   },
   "dependencies": {
-    "@storybook/core": "workspace:*"
+    "@storybook/core": "3.3.3"
   },
   "devDependencies": {
     "typescript": "^5.7.3"
