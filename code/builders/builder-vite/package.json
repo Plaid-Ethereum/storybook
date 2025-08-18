@@ -43,7 +43,7 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/csf-plugin": "workspace:*",
+    "@storybook/csf-plugin": "7.1.0",
     "browser-assert": "^1.2.1",
     "ts-dedent": "^2.0.0"
   },
