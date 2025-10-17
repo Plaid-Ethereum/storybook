@@ -95,7 +95,7 @@
   },
   "dependencies": {
     "@chromatic-com/storybook": "^3.2.4",
-    "@happy-dom/global-registrator": "^14.12.0",
+    "@happy-dom/global-registrator": "^20.0.0",
     "@nx/eslint": "20.2.2",
     "@nx/vite": "20.2.2",
     "@nx/workspace": "20.2.2",
@@ -200,7 +200,7 @@
     "eslint-plugin-storybook": "0.11.3--canary.187.1af857a.0",
     "github-release-from-changelog": "^2.1.1",
     "glob": "^10.0.0",
-    "happy-dom": "^14.12.0",
+    "happy-dom": "^20.0.2",
     "http-server": "^14.1.1",
     "husky": "^4.3.7",
     "intl-segmenter-polyfill-rs": "^0.1.7",
